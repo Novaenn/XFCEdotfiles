@@ -1,0 +1,8 @@
+set autoindent
+set linenumbers
+set mouse
+set softwrap
+set titlecolor green,grey
+set statuscolor green,grey
+set keycolor green,grey
+set functioncolor green,grey
